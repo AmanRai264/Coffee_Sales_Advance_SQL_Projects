@@ -80,3 +80,15 @@ Below are the key queries executed on the dataset and their objectives:
 ### 10. Best Day & Hour for Sales per Product Category
 - Identifies the combination of day name and hour with the highest sales for each product category, including ties.
 
+## Tools & Technologies Used
+- **Database**: PostgreSQL / MySQL (or any relational database)
+- **Query Language**: SQL
+- **Data Analysis Techniques**: Aggregations, Window Functions, Common Table Expressions (CTEs), Ranking Functions, Statistical Analysis
+
+## Key Takeaways
+- Certain products sell more frequently in specific months.
+- Outlier transactions can be identified using standard deviation.
+- Store locations have different average spending patterns.
+- Peak business hours can be leveraged for promotional campaigns.
+- Customer loyalty programs can be simulated using random distribution.
+
