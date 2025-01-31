@@ -92,3 +92,17 @@ Below are the key queries executed on the dataset and their objectives:
 - Peak business hours can be leveraged for promotional campaigns.
 - Customer loyalty programs can be simulated using random distribution.
 
+## How to Use This Project
+1. Load the dataset into a relational database.
+2. Run the provided SQL queries to extract insights.
+3. Modify queries as needed to explore additional patterns.
+4. Use findings to make data-driven business decisions.
+
+## Future Enhancements
+- Implementing data visualization to represent key insights.
+- Automating data processing using Python or Power BI.
+- Building a predictive model for sales forecasting.
+
+---
+
+
